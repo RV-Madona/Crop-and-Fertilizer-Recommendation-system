@@ -8,18 +8,24 @@ The Objective of our model is to recommend the Crops based on soil, weather, hum
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.2.	PROBLEM STATEMENT
 
-•	Based on predicted rainfall, soil contents and weather parameters the system will recommend the most suitable crop for cultivation. 
+•	Based on predicted rainfall, soil contents and weather parameters the system will recommend the most suitable crop for cultivation.
+
 •	Crop prediction is an essential task for the decision-makers at national and regional levels for rapid decision-making.
+
 •	 It allows the farmers to choose any of the alternative combinations of fertilizers depending on the recommended crop and soil conditions.
+
 •	An accurate crop yield prediction model can help farmers to decide on what to grow and when to grow 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.3.	CHALLENGES FACED IN THE SYSTEM
 
 •	The major limitations of the Neural Network are reduction in the relative error and decreased prediction efficiency of Crop Yield.
+
 •	Similarly, supervised learning techniques were incapable to capture the nonlinear bond between input and output variables faced a problem during the selection of
  fruits grading or sorting.
+ 
 •	The existing model used SVM that classified the crop data based on the texture, shape, color of patterns on the diseased surface as it includes an unambiguous perception of the defects
+
 •	An existing technique used CNN that reduced the relative error as well as decreased
  the prediction of crop yield.
  
